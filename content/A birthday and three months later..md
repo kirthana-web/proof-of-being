@@ -1,5 +1,5 @@
 ---
-title: 4 years
+title: A birthday and three months later.
 date: 2025-09-04
 ---
 
