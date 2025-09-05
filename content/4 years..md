@@ -9,7 +9,7 @@ But the truth is that I see it differently every day.
 
 On some days, there's a memory of sitting in the least accessible corner of the campus waiting for it all to end while slowly telling myself that I could belong, so I walk back to the classrooms. On other days, there's a memory of little acts of kindness from folks on campus who I'm beyond grateful to have truly known in my life.
 
-<mark style="background-color: #D0A21588; ">Here's a version that I don't quite accept but is still *objectively* true,</mark>
+<mark style="background-color: #FAEEC6; ">Here's a version that I don't quite accept but is still *objectively* true,</mark>
 
 I made a choice most of my peers wouldn't have chosen; I took a risk without fully comprehending the consequences; I managed to find lovely people I can call shapers of my character; I've been in two places of work so far, both of which have been wholesome, passionate, and accept me in all my glory and otherwise; I'm still lucky enough to be in the lives of my friends from school and have them in mine; I've been even luckier to have a family that knows how to support without fully understanding my pursuit.
 
