@@ -13,7 +13,7 @@ On some days, there's a memory of sitting in the least accessible corner of the 
 
 I made a choice most of my peers wouldn't have chosen; I took a risk without fully comprehending the consequences; I managed to find lovely people I can call shapers of my character; I've been in two places of work so far, both of which have been wholesome, passionate, and accept me in all my glory and otherwise; I'm still lucky enough to be in the lives of my friends from school and have them in mine; I've been even luckier to have a family that knows how to support without fully understanding my pursuit.
 
-And here's a version I'm more attached to,
+<mark style="background-color: #FAEEC6; ">And here's a version I'm more attached to,</mark>
 
 For four years of my life, I didn't learn as much as I possibly should have; I didn't live up to what I now believe I'm capable of; I have friends in life but at a blurry distance; I have a family to go back to but one that doesn't see me fully; I have a workplace tender enough to accept me but unsure how to thrive; I didn't take risks that are typical of 20-year-olds; I didn't participate in side quests; I didn't make a team that I could fondly look back at. And maybe pettily so, I didn't fill an album to later swipe through and look at with a gaze that would only highlight the positives. And as a painful mark to leave, I never *mattered* to anyone deeply before I left. 
 
