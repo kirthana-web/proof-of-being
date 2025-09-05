@@ -6,14 +6,17 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer(), // assuming Component.Footer() returns a QuartzComponent
+  footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ArticleTitle(), // Always show title
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index", // Only show ContentMeta on non-homepage
+    }),
   ],
   left: [],
   right: [],
@@ -23,6 +26,12 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
+    Component.RecentNotes({
+      title: "",
+      limit: 50,
+      showTags: false,
+      linkToMore: false,
+    }),
   ],
   left: [],
   right: [],
