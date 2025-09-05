@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Alegreya",
+        body: "Alegreya",
+        code: "Alegreya Sans", // Using Alegreya Sans for code for consistency
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FFFCF0",          // Flexoki paper
+          lightgray: "#F2F0E5",      // Flexoki ui-2
+          gray: "#B7B5AC",           // Flexoki ui
+          darkgray: "#6F6E69",       // Flexoki tx-2
+          dark: "#403E3C",           // Flexoki tx
+          secondary: "#205EA6",      // Flexoki blue
+          tertiary: "#24837B",       // Flexoki cyan
+          highlight: "rgba(36, 131, 123, 0.15)",     // Flexoki cyan with transparency
+          textHighlight: "#D0A21588", // Flexoki yellow with transparency
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#100F0F",          // Flexoki black
+          lightgray: "#1C1B1A",      // Flexoki ui-2 dark
+          gray: "#282726",           // Flexoki ui dark
+          darkgray: "#B7B5AC",       // Flexoki tx-2 dark
+          dark: "#CECDC3",           // Flexoki tx dark
+          secondary: "#4385BE",      // Flexoki blue (lighter variant)
+          tertiary: "#3AA99F",       // Flexoki cyan (lighter variant)
+          highlight: "rgba(58, 169, 159, 0.15)",     // Flexoki cyan with transparency
+          textHighlight: "#D0A21588", // Flexoki yellow with transparency
         },
       },
     },
@@ -59,37 +59,23 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }

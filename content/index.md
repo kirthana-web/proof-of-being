@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Proof of Being
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a site I use for all forms of written expression A.
