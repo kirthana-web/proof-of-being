@@ -7,13 +7,13 @@ I have always had a tough time thinking about what it was like to grow up in che
 
 Like most other children, I grew up believing that an ideal world existed. I expected fairness, justice, loyalty, and honesty, to name a few, from all entities in the world. Somehow, chennai became the city where I would lose this sense of idealism. At sixteen, I attributed that loss to the city and its culture. I am less certain now that the distinction was so simple. I’m not sure whether growing up anywhere else would have left me at the same crossroads where I continue to find myself.
 
-![[attachments/chennai-01.jpg|500]]
+![[attachments/chennai-01.jpg|268]]
 
 *I had a personal road vehicle back then :}*
 
 When someone is young, there is a strong sense of what is home and what is not. The house you live in is home, but the school you attend, the corner aisle of the grocery store you visit once a week, and the roads you walk on are clearly not. But as I grew older and moved to different cities, these distinctions became unclear. The smells, sounds, and sights of these other places became familiar and, strangely, evoked a feeling similar to that of stepping into my house after hours of travel and months of being away. My current context has begun to map itself viscerally onto my idea of home.
 
-![[attachments/chennai-02.jpg|500]]
+![[attachments/chennai-02.jpg|264]]
 
 *birthday, favourite beach snack, family.*
 
