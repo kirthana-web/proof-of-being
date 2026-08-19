@@ -4,6 +4,12 @@
 
 article img {
   display: block;
+  margin-bottom: 0.35rem;
   margin-right: auto;
   margin-left: auto;
+}
+
+article .image-caption {
+  margin-top: 0;
+  text-align: center;
 }
