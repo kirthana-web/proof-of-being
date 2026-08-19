@@ -3,7 +3,7 @@ title: chennai
 date: 2026-08-19
 ---
 
-I have always had a tough time thinking about what it was like to grow up in chennai. Whenever I think of chennai, I distinctly remember my six-year-old and sixteen-year-old selves. I first moved to chennai when I was six, from a small industrial township where I had an incredible childhood: tricycling alone through pine-tree-lined lanes at four, taking music classes, playing after school, and dancing around in big shoes. Then came the time to move to a bigger city, with larger roads, more cars, meaner kids, and a confusingly rich taste of the ‘outside’ world.
+I have always had a tough time thinking about what it was like to grow up in chennai. Whenever I think of chennai, I distinctly remember my six-year-old and sixteen-year-old selves. I first moved to chennai when I was six, from a small industrial township where I had an incredible childhood: tricycling alone through pine tree lanes, taking music classes, playing after school, and dancing around in big shoes. Then came the time to move to a bigger city, with larger roads, more cars, meaner kids, and a confusingly rich taste of the ‘outside’ world.
 
 Like most other children, I grew up believing that an ideal world existed. I expected fairness, justice, loyalty, and honesty, to name a few, from all entities in the world. Somehow, chennai became the city where I would lose this sense of idealism. At sixteen, I attributed that loss to the city and its culture. I am less certain now that the distinction was so simple. I’m not sure whether growing up anywhere else would have left me at the same crossroads where I continue to find myself.
 
